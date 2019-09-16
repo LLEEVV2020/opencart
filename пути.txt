@@ -1,0 +1,13 @@
+ФУТЕР править
+1) host/public_html/catalog/controller/common/header.php
+2) host/public_html/catalog/view/theme/default/template/common/header.twig
+
+CSS править 
+3) host/public_html/catalog/view/theme/default/stylesheet/stylesheet.css
+
+Статические странницы (Админка)
+4) Каталог - статьи
+
+
+
+
